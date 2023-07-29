@@ -1,4 +1,5 @@
- function somar(x, y) {
+//sum function
+function somar(x, y) {
     return x + y
 }
 

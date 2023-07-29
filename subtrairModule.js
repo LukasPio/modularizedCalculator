@@ -1,3 +1,4 @@
+//subtraction function
 function subtrair(x, y) {
     return x - y
 }
